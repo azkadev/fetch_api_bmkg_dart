@@ -1,5 +1,10 @@
-# Fetch api bmkg dart
-Fetch api bmkg menggunakan bahasa code dart, 
-> repository ini hanya untuk sumber belajar saja bagi orang yang ingin menggunakan bahasa code dart
+IyBGZXRjaCBhcGkgYm1rZyBkYXJ0CkZldGNoIGFwaSBibWtnIG1lbmdndW5h
+a2FuIGJhaGFzYSBjb2RlIGRhcnQsIAo+IHJlcG9zaXRvcnkgaW5pIGhhbnlh
+IHVudHVrIHN1bWJlciBiZWxhamFyIHNhamEgYmFnaSBvcmFuZyB5YW5nIGlu
+Z2luIG1lbmdndW5ha2FuIGJhaGFzYSBjb2RlIGRhcnQKCltTcGVlZC1Db2Rl
+XShodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVlFRk0wSVRsTE5r
+KQ==
 
-[Speed-Code](https://www.youtube.com/watch?v=YEFM0ITlLNk)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
